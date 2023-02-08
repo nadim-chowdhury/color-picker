@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 60px;
+}
+
+h3 {
+  padding: 5px;
+  background-color: #fff;
+}
+
+#hexaNumber,
+#color {
+  margin-top: 10px;
+  height: 40px;
+}
